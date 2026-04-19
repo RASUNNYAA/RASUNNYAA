@@ -1,4 +1,4 @@
-# Nutdanai — Odoo · Full-stack · DevOps
+# Suriya ch — Full-stack · DevOps
 
 > นักพัฒนาและที่ปรึกษา Odoo 17–18, Next.js, Laravel และ Platform Engineering
 > รับงาน Freelance / Contract / Project-based
