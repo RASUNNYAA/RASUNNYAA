@@ -59,7 +59,7 @@
 
 ## ติดต่อ
 
-[![LinkedIn]()](#)
+[![LinkedIn](https://www.linkedin.com/in/rasunnyaa/)](#)
 [![Portfolio]()](#)
 [![Email]()]()
 
